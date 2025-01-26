@@ -1,5 +1,5 @@
 # ORB_SLAM3_ROS2
-This repository is ROS2 wrapping to use ORB_SLAM3
+This repository is ROS2 wrapping to use ORB_SLAM3 with Inertial Measurement Unit (IMU) component 
 
 ---
 
